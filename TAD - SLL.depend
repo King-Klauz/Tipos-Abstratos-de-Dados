@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1618598378 source:c:\users\1\desktop\estrutura de dados i\teste\tad - sll\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1618502870 c:\users\1\desktop\estrutura de dados i\teste\tad - sll\lista.h
+
+1618593114 source:c:\users\1\desktop\estrutura de dados i\teste\tad - sll\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
